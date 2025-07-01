@@ -1,6 +1,7 @@
 **Predicción de fibrosis hepática en pacientes con insuficiencia cardíaca mediante inteligencia artificial utilizando variables clínicas y el FibroScan como referencia diagnóstica.**
 
 **Descripción:**
+
 Este repositorio contiene el código fuente desarrollado para el Trabajo de Fin de Máster (TFM) titulado "Predicción de fibrosis hepática en pacientes con insuficiencia cardíaca mediante inteligencia artificial utilizando variables clínicas y el FibroScan como referencia diagnóstica".
 
 El objetivo principal de este proyecto es desarrollar un sistema basado en Machine Learning capaz de predecir la fibrosis hepática en pacientes con insuficiencia cardíaca, especialmente en escenarios donde el acceso a herramientas de diagnóstico como el FibroScan es limitado. Para ello, se utilizan variables clínicas relevantes, complementadas con las mediciones del FibroScan como referencia diagnóstica.
